@@ -5,8 +5,8 @@ Use the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) 
 
 ## Screenshots
 
-![](Screenshot1.png)
-![](Screenshot2.png)
+![](Screenshot1.jpg)
+![](Screenshot2.jpg)
 
 ## User Story
 
